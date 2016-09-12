@@ -1,0 +1,40 @@
+body {background-image: url("file:///C:/School/Sublime%20text%20html/images/black_background.jpg");}
+		h1 {
+			color:red;
+		}
+		h1 {
+			text-align: center;
+		}
+		h2 {
+			color:red;
+		}
+		h2 {
+			text-align: center;
+		}
+		h3 {
+			color:red;
+		}
+		h3 {
+			text-align: center;
+		}
+		b {
+			text-align: center;
+		}
+		b {
+			color:red;
+		}
+		p {
+			text-align: center;
+		}
+		p {
+			color:red;
+		}
+		img {
+               display: block;
+               margin: 0 auto;
+               width:304px;height:228px;
+
+		}
+		ul {
+			color:red;
+		}
